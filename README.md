@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Hi, I'm **Thuvaraki**  
-🎓 _Software Engineering Undergraduate_ | 💻 _Aspiring Full Stack Developer_
+ _Software Quality Assurance Engineer_
 
 </div>
 
